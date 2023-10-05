@@ -1,0 +1,50 @@
+/* student name = sujan vaghela
+   student number = 8914816 */
+
+   body{
+    height : 100vh;
+    width : 100vw;
+    background-color: hsla(281, 87%, 62%, 0.3);
+    font : normal normal normal 12px/1.5 verdana, Arial, Helvetica, sans-serif;
+ 
+ }
+ h2{
+    color : #fc0;
+    font-size : 2 rem;
+    }
+header{
+ background-color: hsl(200, 90%, 62%);
+}
+main{
+   float : left;
+   width : 70vw;
+   height : 60vh;
+   background-color: hsl(35, 60%, 40%);
+}
+aside{
+   float : right;
+   width : 25vw;
+   height : 60vh;
+   background-color: hsl(299, 63%, 27%);
+}
+footer{
+   clear: both;
+   background-color: hsl(125, 72%, 32%);
+}
+.structural{
+   padding :10 px;
+   margin : 10px;
+   border : 2px solid black;
+}
+#para1{
+   color : rgb(45, 196, 242);
+}
+#para2{
+   color : rgb(208, 218, 24)
+}
+a:hover{
+   color : blue;
+}
+footer p{
+   font-size: .75em;
+}
