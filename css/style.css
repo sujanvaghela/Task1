@@ -45,7 +45,7 @@ aside{
    width : 25vw;
    background-color: hsl(299, 63%, 27%);
 }
-aside li, aside la{
+aside li, aside ul{
    color:blue;
 
 }
